@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 ### Deploy: 
-##Link https://sonugtm-india.github.io/Todo-App/
+##Link  (https://sonugtm-india.github.io/Todo-App/)
 In the project directory, you can run:
 
 ### `npm start`
