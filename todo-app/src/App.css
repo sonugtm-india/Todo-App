@@ -1,0 +1,133 @@
+body{
+  background-color: lightgreen;
+  color:white;
+  overflow: hidden;
+}
+h1{
+  text-align: center;
+
+}
+.todo-wrapper{
+  background: rgb(32, 11, 11);
+  padding:2%;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3%;
+  max-height: 80vh;
+  overflow-y:auto;
+  box-shadow: 0px 10px 10px rgb(80, 75, 75);
+}
+.todo-input{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid gray;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+}
+.todo-input-item{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-right:25px ;
+}
+.todo-input-item label{
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.todo-input-item input{
+  padding:12px;
+  border-radius: 5px;
+  border:none;
+  width: 250px;
+}
+.todo-input-item input:focus{
+  outline: 2px solid green;  
+  
+}
+.primaryBtn {
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-top: 25px;
+  padding: 10px;
+  width: 60px;
+  cursor: pointer;
+}
+
+.primaryBtn:hover {
+  background-color: greenyellow;
+}
+
+.btn{
+  background-color: green;
+  border: none;
+  color:white;
+}
+.btn:hover{
+  background-color: greenyellow;
+  color:black
+}
+.secondaryBtn{
+  background-color: grey;
+  color:white;
+  border: none;
+  border-radius: 1px;
+  margin-top:25px;
+  padding:10px;
+  width:60px;
+
+  width: fit-content;
+  cursor: pointer;
+
+}
+.active{
+   background-color: green;
+}
+.todo-list{
+  display:flex;
+  flex-direction: column;
+
+}
+.btn-area{
+  margin-bottom: 10px;
+}
+.todo-list-item{
+   background-color: rgb(51, 47, 47);
+   display: flex;
+   justify-content: space-between;
+   padding: 25px;
+   padding-top:10px;
+   padding-bottom:10px;
+   margin-bottom: 10px;
+   align-items: center;
+   box-shadow: 0px 3px 5px black;
+
+}
+.todo-list-item h3{
+  font-size: 25px;
+  color: green;
+  font-weight: bold;
+  margin-top:0px
+}
+.todo-list-item p{
+  color:gray;
+  font-size: 14px;
+  margin-top:10px;
+  
+  
+}
+.icon{
+  font-size:35px;
+  cursor: pointer;
+  margin-left: 400px;
+}
+.check-icon{
+  font-size:40px;
+  margin-left: 0px;
+  margin-right: 0px;
+  color:green;
+  cursor: pointer;
+}
