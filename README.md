@@ -1,3 +1,12 @@
+
+<img width="1440" alt="Screenshot 2024-04-28 at 5 51 27 PM" src="https://github.com/sonugtm-india/Todo-App/assets/96379972/f737dc71-b6ab-4a92-a569-6dc5261eb518">
+
+
+<img width="1440" alt="Screenshot 2024-04-28 at 5 52 34 PM" src="https://github.com/sonugtm-india/Todo-App/assets/96379972/e310141a-daef-4083-8879-ec323f9147ff">
+
+
+<img width="1440" alt="Screenshot 2024-04-28 at 5 52 40 PM" src="https://github.com/sonugtm-india/Todo-App/assets/96379972/483ba8ed-0bc8-43a5-a434-e3bd3b8bb29c">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
